@@ -56,3 +56,6 @@ python3 run.py config.txt --cusip 912796SG5
   ]
 }
 ```
+
+## Contact Us
+Fluidity is a financial technology company based in Brooklyn, New York, on a mission to rebuild finance using blockchain technology. Reach us at team@fluidity.io for any inquiries related to this repository, the Tokenized Asset Portfolio (TAP), or working with our team.
